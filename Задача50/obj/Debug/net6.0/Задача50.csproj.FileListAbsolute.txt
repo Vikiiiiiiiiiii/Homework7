@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\bin\Debug\net6.0\Задача50.exe
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\bin\Debug\net6.0\Задача50.deps.json
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\bin\Debug\net6.0\Задача50.runtimeconfig.json
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\bin\Debug\net6.0\Задача50.dll
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\bin\Debug\net6.0\Задача50.pdb
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfo.cs
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.dll
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\refint\Задача50.dll
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.pdb
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\Задача50.genruntimeconfig.cache
+C:\Users\User\Desktop\seminar7\Homework7\Задача50\obj\Debug\net6.0\ref\Задача50.dll
